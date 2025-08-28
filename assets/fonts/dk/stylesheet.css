@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'DK Knucklebones(RUS BY LYAJKA)';
+    src: url('DKKnucklebonesRUSBYLYAJKA.woff2') format('woff2'),
+        url('DKKnucklebonesRUSBYLYAJKA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.dk-font {
+    font-family: "DK Knucklebones(RUS BY LYAJKA)";
+}
